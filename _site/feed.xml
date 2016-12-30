@@ -2,13 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimal</title>
-    <description>Blog experimental para o uso do Jekyll.
-</description>
-    <link>http://jekyll.roliveira.com/minimal-blog/</link>
-    <atom:link href="http://jekyll.roliveira.com/minimal-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2016 15:28:19 -0200</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2016 15:28:19 -0200</lastBuildDate>
+    <description>Blog experimental para o uso do Jekyll.</description>
+    <link>http://www.roliveira.com/minimal-blog/</link>
+    <atom:link href="http://www.roliveira.com/minimal-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 30 Dec 2016 14:41:01 -0200</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2016 14:41:01 -0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Primeiro post!</title>
+        <description>&lt;h1 id=&quot;começando-os-trabalhos&quot;&gt;Começando os trabalhos&lt;/h1&gt;
+&lt;h5 id=&quot;bora-lá&quot;&gt;Bora lá?&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque dolorem, maxime aperiam maiores esse, facilis reiciendis a, explicabo labore pariatur blanditiis est officia possimus similique suscipit molestiae omnis. Alias, iste.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lista item, &lt;a href=&quot;roliveira.com!&quot;&gt;clique aqui&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 29 Dec 2016 14:27:02 -0200</pubDate>
+        <link>http://www.roliveira.com/minimal-blog/primeiro-post</link>
+        <guid isPermaLink="true">http://www.roliveira.com/minimal-blog/primeiro-post</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -26,10 +47,40 @@
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint at eaque maiores error minima labore, doloremque facere. Voluptate officiis, nisi beatae provident nemo reprehenderit debitis, voluptas laborum doloremque eos sunt!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum consequatur recusandae atque similique doloremque architecto voluptas quidem nihil omnis explicabo, blanditiis porro? Nulla vitae, dignissimos, molestiae temporibus officia expedita sit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum, amet, obcaecati repellat laborum doloribus dolores vero at nisi fugiat deleniti! Ullam velit aspernatur eveniet, autem illo numquam quis doloremque!&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Dec 2016 17:09:02 -0200</pubDate>
-        <link>http://jekyll.roliveira.com/minimal-blog/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://jekyll.roliveira.com/minimal-blog/welcome-to-jekyll</guid>
+        <link>http://www.roliveira.com/minimal-blog/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://www.roliveira.com/minimal-blog/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
